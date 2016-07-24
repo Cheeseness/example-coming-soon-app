@@ -3,9 +3,9 @@ This application is an simple example SDL program originally created to communic
 
 When Day of the Tentacle Remastered was set up in a private testing branch, Steam would indicate to users who had previously purchased the game that they could download and play it. When the user attempted to run the game, they would receive an error about a "missing executable."
 
-To avoid this situation and to remind Linux users that we were being thoughtful, I created this small application which could be placed in the default branch usign the same executable name as the final game. When attempting to run the game, users would now see a window containing a Day of the Tentacle themed graphic and "coming soon" message thanking them for their patience.
+To avoid this situation and to remind Linux users that we were being thoughtful, I created this small application which could be placed in the default branch using the same executable name as the final game. When attempting to run the game, users would now see a window containing a Day of the Tentacle themed graphic and "coming soon" message thanking them for their patience.
 
-This had the upside of reassuring Linux users that work was being made, allowed Linux users to receive Steam card drops before released, and quelled panick about platform statistics for users who wanted to purchase before the Linux version was ready. By using a penguin in the graphic, we were also able to generate additional excitement and positivity regarding the then yet-to-be-released port.
+This had the upside of reassuring Linux users that work was being made, allowed Linux users to receive Steam card drops before released, and quelled panic about platform statistics for users who wanted to purchase before the Linux version was ready. By using a penguin in the graphic, we were also able to generate additional excitement and positivity regarding the then yet-to-be-released port.
 
 For more information on Day of the Tentacle Remastered's Linux port, visit http://cheesetalks.net/porting_dott.php
 
