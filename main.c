@@ -112,6 +112,8 @@ int main(int argc, char* argv[])
 						break;
 					}
 				}
+				//Let's not waste too many CPU cycles
+				SDL_Delay(15);
 			}
 
 			//Free up all that lovely stuff we made
